@@ -11,9 +11,7 @@
 
 #
 
-<h3> Language </h3>
-
-
+  <a name="Python" href="https://www.github.com/MurilloPy"><img src="https://i.ibb.co/qsmMP7H/icons8-python-480.png" width="68px" border="0"></a>
   <a name="C" href="https://www.github.com/MurilloPy"><img src="https://i.ibb.co/YfFm3zL/icons8-c-480.png" width="68px" border="0"></a>
   <a name="HTML5" href="https://www.github.com/MurilloPy"><img src="https://i.ibb.co/pLnzQyh/icons8-html-480.png" width="68px" border="0"></a>
   <a name="CSS3" href="https://www.github.com/MurilloPy"><img src="https://i.ibb.co/PjF7MyZ/icons8-css-480.png" width="68px" border="0"></a>

@@ -2,7 +2,6 @@
 
 <div name="stats">
 
-<img width="430px" src="https://github-readme-stats.vercel.app/api?username=MurilloPy&show_icons=true&theme=blueberry">
 <img width="390px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurilloPy&layout=compact&theme=blueberry">
 
 </div>
